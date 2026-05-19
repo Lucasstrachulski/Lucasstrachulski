@@ -24,5 +24,4 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na Unicesumar. Gos
 
 ---
 
-## ⚡ Fato Curioso
-- Além de passar horas analisando códigos e estruturando rotas no terminal, sou praticante ativo de esportes de combate como Muay Thai e Jiu-Jitsu! 🥊 🥋
+
