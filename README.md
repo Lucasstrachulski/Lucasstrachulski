@@ -1,28 +1,28 @@
-# Hi 👋, I'm Lucas Vinícius Strachulski
+# Olá, eu sou o Lucas Vinícius 👋
 
-### Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Backend em formação
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na Unicesumar. Gosto de construir soluções eficientes e completas, com foco no desenvolvimento back-end, estruturação de APIs REST e manipulação de bancos de dados.
 
-- 🌱 I'm currently learning **Desenvolvimento de APIs REST, Node.js, Express e Banco de Dados (MongoDB)**
+---
 
-- 👯 I'm looking to collaborate on **Projetos open-source focados em Backend e Node.js**
+## 💻 Stack Tecnológica
 
-- 🤝 I'm looking for help with **rquitetura de software, boas práticas de API e Deploy**
+### ⚙️ Back-end, Dados & DevOps
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-- 💬 Ask me about **JavaScript, Node.js, Express, Git e lógica de programação**
+---
 
-- 📫 How to reach me **lucasvstra@gmail.com**
+## 📊 Estatísticas e Linguagens
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Lucasstrachulski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Lucasstrachulski" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Lucas Strachulski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lucas Strachulski" height="30" width="40" /></a>
-</p>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucasstrachulski&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Lucas's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasstrachulski&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucasstrachulski&show_icons=true&locale=en&layout=compact" alt="Lucasstrachulski" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Lucasstrachulski&show_icons=true&locale=en" alt="Lucasstrachulski" /></p>
-
-
+## ⚡ Fato Curioso
+- Além de passar horas analisando códigos e estruturando rotas no terminal, sou praticante ativo de esportes de combate como Muay Thai e Jiu-Jitsu! 🥊 🥋
