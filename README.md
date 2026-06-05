@@ -30,10 +30,10 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na Unicesumar 
 
 <div align="center">
   <!-- Card de Estatísticas Gerais -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=lucasvstrachulski&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Lucasstrachulski&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
   
   <!-- Card de Linguagens Mais Usadas -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasstrachulski&layout=compact&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasstrachulski&layout=compact&theme=tokyonight" />
 </div>
 
 ---
