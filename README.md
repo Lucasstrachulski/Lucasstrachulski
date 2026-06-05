@@ -24,9 +24,9 @@
 
 ## 📊 Estatísticas e Linguagens
 
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Lucasstrachulski&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasstrachulski&layout=compact&theme=tokyonight" />
+<div align="left">
+  <img src="https://github-readme-stats-one.vercel.app/api?username=Lucasstrachulski&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Lucas's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=Lucasstrachulski&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
 </div>
 
 ---
