@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=339933&width=400&lines=Desenvolvedor+Backend;Estudante+de+ADS" alt="Typing SVG" />
 </div>
 
-> 🏫 Estudante de Análise e Desenvolvimento de Sistemas (ADS) na UTFPR e profissional na área de tecnologia.
+> 🏫 Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na Unicesumar. Gosto de construir soluções eficientes e completas, com foco no desenvolvimento back-end, estruturação de APIs REST e manipulação de bancos de dados.
 
 ---
 
@@ -36,12 +36,6 @@
 <div align="center">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lucasstrachulski&theme=tokyonight" alt="GitHub Streak" />
 </div>
-
----
-
-## 🥋 Fora do Terminal
-A disciplina e o foco dos códigos vêm direto da rotina de treinos de alta performance:
-* 🥊 **Muay Thai** | 🥋 **Jiu-Jitsu** | 🤼‍♂️ **MMA**
 
 ---
 
