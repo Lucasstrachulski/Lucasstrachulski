@@ -42,7 +42,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na Unicesumar 
 
 <div align="center">
   <!-- Gráfico de linhas de código e produtividade semanal -->
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasvstrachulski&theme=tokyonight" alt="GitHub Streak" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lucasstrachulski&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
