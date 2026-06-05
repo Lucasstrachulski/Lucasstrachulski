@@ -1,11 +1,10 @@
 # Olá, eu sou o Lucas Vinícius! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=339933&width=435&lines=Desenvolvedor+Backend;Estudante+de+ADS;Apaixonado+por+Tecnologia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=339933&width=400&lines=Desenvolvedor+Backend;Estudante+de+ADS" alt="Typing SVG" />
 </div>
 
-### 🚀 Sobre Mim
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na UTFPR (Campus Ponta Grossa) e atuo profissionalmente na área de tecnologia. Meu foco principal é o ecossistema JavaScript, construindo aplicações robustas, APIs performáticas e manipulando bancos de dados relacionais e não-relacionais.
+> 🏫 Estudante de Análise e Desenvolvimento de Sistemas (ADS) na UTFPR e profissional na área de tecnologia.
 
 ---
 
@@ -16,45 +15,33 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na UTFPR (Camp
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### 🗄️ Bancos de Dados
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
 ## 📊 Estatísticas e Linguagens
 
-<div align="left">
-  <img src="https://github-readme-stats-one.vercel.app/api?username=Lucasstrachulski&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Lucas's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=Lucasstrachulski&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Lucasstrachulski&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasstrachulski&layout=compact&theme=tokyonight" />
 </div>
 
 ---
 
-## 📈 Contribuições e Atividade
+## 📈 Sequência de Contribuições
 
 <div align="center">
-  <!-- Gráfico de linhas de código e produtividade semanal -->
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lucasstrachulski&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 🎯 Objetivos e Foco Atual
-* 🏫 **Acadêmico:** Absorver o máximo de engenharia de software e arquitetura de sistemas na UTFPR.
-* 🛠️ **Técnico:** Consolidar padrões de arquitetura (Clean Architecture, MVC) e testes automatizados no Back-end.
-* 💼 **Evolução:** Aplicar lógica avançada e boas práticas de versionamento no dia a dia profissional.
-
----
-
 ## 🥋 Fora do Terminal
-A disciplina que utilizo para resolver bugs complexos e estruturar códigos vem da consistência e do foco exigidos nos esportes de combate. Fora do horário de desenvolvimento, você me encontra focado nos treinos de:
-* 🥊 **Muay Thai**
-* 🥋 **Jiu-Jitsu**
-* 🤼‍♂️ **MMA**
+A disciplina e o foco dos códigos vêm direto da rotina de treinos de alta performance:
+* 🥊 **Muay Thai** | 🥋 **Jiu-Jitsu** | 🤼‍♂️ **MMA**
 
 ---
 
@@ -64,14 +51,7 @@ A disciplina que utilizo para resolver bugs complexos e estruturar códigos vem 
   <a href="https://github.com/Lucasstrachulski" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <!-- Substitua o link abaixo pelo seu LinkedIn real quando quiser -->
   <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=339933&height=100&section=footer" />
 </div>
