@@ -1,37 +1,25 @@
-# Olá, eu sou o Lucas Vinícius! 👋
+# Lucas Vinícius Strachulski
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=339933&width=400&lines=Desenvolvedor+Backend;Estudante+de+ADS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=339933&width=400&lines=Software+Engineering+Student;Backend+Developer" alt="Typing SVG" />
 </div>
 
-> 🏫 Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na Unicesumar. Gosto de construir soluções eficientes e completas, com foco no desenvolvimento back-end, estruturação de APIs REST e manipulação de bancos de dados.
+> 🎓 **Análise e Desenvolvimento de Sistemas** na Unicesumar ( Ponta Grossa ). Focado em arquitetura backend, otimização de APIs e manipulação de dados.
 
 ---
 
-## 💻 Stack Tecnológica
+### 🛠️ Tech Stack
 
-### ⚙️ Back-end, Dados & DevOps
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### 🗄️ Bancos de Dados
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+`JavaScript (ES6+)` `Node.js` `Express.js` `MongoDB` `MySQL` `PostgreSQL` `Git`
 
 ---
 
-## 📊 Estatísticas e Linguagens
+### 📊 GitHub Analytics
 
-<div align="left">
-  <img src="https://github-readme-stats-one.vercel.app/api?username=Lucasstrachulski&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Lucas's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=Lucasstrachulski&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Lucasstrachulski&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasstrachulski&layout=compact&theme=tokyonight" />
 </div>
-
----
-
-## 📈 Sequência de Contribuições
 
 <div align="center">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lucasstrachulski&theme=tokyonight" alt="GitHub Streak" />
@@ -39,7 +27,7 @@
 
 ---
 
-## 🌐 Redes & Contato
+### 🌐 Contact & Connect
 
 <div align="left">
   <a href="https://github.com/Lucasstrachulski" target="_blank">
