@@ -5,8 +5,7 @@
 </div>
 
 ### 🚀 Sobre Mim
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na Unicesumar (Campus Ponta Grossa) e atuo profissionalmente na área de tecnologia. Gosto de construir soluções eficientes e completas, com foco no desenvolvimento back-end, estruturação de APIs REST e manipulação de bancos de dados.
-
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na UTFPR (Campus Ponta Grossa) e atuo profissionalmente na área de tecnologia. Meu foco principal é o ecossistema JavaScript, construindo aplicações robustas, APIs performáticas e manipulando bancos de dados relacionais e não-relacionais.
 
 ---
 
@@ -65,10 +64,10 @@ A disciplina que utilizo para resolver bugs complexos e estruturar códigos vem 
 ## 🌐 Redes & Contato
 
 <div align="left">
-  <a href="https://github.com/lucasvstrachulski" target="_blank">
+  <a href="https://github.com/Lucasstrachulski" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <!-- Se tiver LinkedIn, basta substituir o link abaixo -->
+  <!-- Substitua o link abaixo pelo seu LinkedIn real quando quiser -->
   <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
