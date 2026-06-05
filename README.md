@@ -5,7 +5,8 @@
 </div>
 
 ### 🚀 Sobre Mim
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na UTFPR (Campus Ponta Grossa) e atuo profissionalmente na área de tecnologia. Meu foco principal é o ecossistema JavaScript, construindo aplicações robustas, APIs performáticas e manipulando bancos de dados relacionais e não-relacionais.
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na Unicesumar (Campus Ponta Grossa) e atuo profissionalmente na área de tecnologia. Gosto de construir soluções eficientes e completas, com foco no desenvolvimento back-end, estruturação de APIs REST e manipulação de bancos de dados.
+
 
 ---
 
