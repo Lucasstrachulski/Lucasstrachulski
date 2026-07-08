@@ -26,11 +26,7 @@
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-  <!-- Servidor alternativo estável para os dois cards superiores -->
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lucasstrachulski&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lucasstrachulski&layout=compact&theme=tokyonight" />
-</div>
+
 
 <div align="center">
   <!-- Gráfico de Streak que já está funcionando perfeitamente -->
