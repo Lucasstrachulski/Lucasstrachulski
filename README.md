@@ -11,6 +11,7 @@
 ### 🛠️ Tech Stack
 
 ### ⚙️ Back-end, Dados & DevOps
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -27,8 +28,8 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Lucasstrachulski&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lucasstrachulski&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lucasstrachulski&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Lucasstrachulski&layout=compact&theme=tokyonight" />
 </div>
 
 ---
